@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.14.1",
+    "ts-node": "^8.1.1",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "@vue/cli": "^3.7.0"
+  }
+}
