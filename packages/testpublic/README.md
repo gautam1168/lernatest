@@ -6,7 +6,6 @@
 
 ```
 const testpublic = require('testpublic');
-test
 
 // TODO: DEMONSTRATE API
 ```
