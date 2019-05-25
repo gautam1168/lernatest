@@ -1,5 +1,5 @@
 {
-  "name": "testpublic",
+  "name": "livspace-testpublic",
   "version": "0.0.1-alpha.3",
   "description": "> TODO: description",
   "author": "Gaurav Gautam <gaurav.gautam@livspace.com>",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "e741924a90d994bf8978f64bc744147a4df24b06"
+  "gitHead": "9f5a17a2e3fa859e313a8e66ff3672b9f8e94423"
 }
