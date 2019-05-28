@@ -1,6 +1,6 @@
 {
   "name": "livspace-vueclient",
-  "version": "0.0.1-alpha.4",
+  "version": "0.0.1-alpha.5",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "livspace-pipeline": "^1.0.1-alpha.0",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.1.0",
     "vue-router": "^3.0.3",
-    "vuex": "^3.0.1",
-    "livspace-pipeline": "^1.0.1-alpha.0"
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.0",
